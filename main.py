@@ -217,3 +217,5 @@ class Model(nn.Module):
 
 print("TEST 20")
 print("Test 32")
+print("TEST 20")
+print("Test 32")
